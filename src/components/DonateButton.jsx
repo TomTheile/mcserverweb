@@ -11,7 +11,7 @@ const DonateButton = () => {
       whileTap={{ scale: 0.95 }}
     >
       <form action="https://www.paypal.com/donate" method="post" target="_blank">
-        <input type="hidden" name="business" value="YTurboKid@outlook.de" />
+        <input type="hidden" name="business" value="TurboKid@outlook.de" />
         <input type="hidden" name="currency_code" value="EUR" />
         <Button 
           type="submit"
