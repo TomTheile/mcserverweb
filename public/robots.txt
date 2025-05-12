@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
 Allow: /
 
-Sitemap: https://vampirismextra.vercel.app/sitemap.xml
+Sitemap: https://togeva.com/sitemap.xml
